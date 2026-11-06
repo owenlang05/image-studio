@@ -106,7 +106,7 @@ object Checks {
     assert(HumanCore.composeLayers(checkerboard, List(left))(0.0, 0.0) == white)
     assert(Color.blend(blue, orange, 0) == blue, "Alpha level 0 must keep bottom color")
     assert(Color.blend(blue, orange, 1) == orange, "Alpha level 1 must keep top color")
-    assert(Color.blend(blue, orange, 0.5) == Color(128, 64, 128))
+    assert(Color.blend(blue, orange, 0.5) == Color(128, 64, 128), "Hand calculation must match function output")
   }
 }
 

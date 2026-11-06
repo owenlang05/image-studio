@@ -301,3 +301,9 @@ WARNING: Unmatched cancel notification for request id 3595
 2026.11.06 08:05:25 INFO  time: compiled root in 1.1s[0m
 2026.11.06 08:05:39 INFO  compiling root (1 scala source)[0m
 2026.11.06 08:05:39 INFO  time: compiled root in 0.64s[0m
+2026.11.06 08:51:21 INFO  skipping build import with status 'Installed'[0m
+2026.11.06 08:59:13 INFO  compiling root (2 scala sources)[0m
+2026.11.06 08:59:14 INFO  time: code lens generation in 1.23s[0m
+2026.11.06 08:59:22 INFO  time: compiled root in 9.39s[0m
+Nov 06, 2026 9:01:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4443

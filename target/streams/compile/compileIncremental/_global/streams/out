@@ -1,58 +1,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
 [0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
-[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 20 products, 5 sources, 1 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 24 products, 5 sources, 1 libraries[0m
 [0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/studio/image/AiExtension.scala, ${BASE}/src/main/scala/studio/image/Preview.scala, ${BASE}/src/main/scala/studio/image/Basics.scala, ${BASE}/src/main/scala/studio/image/StudentWork.scala, ${BASE}/src/main/scala/studio/image/HumanCore.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(${BASE}/src/main/scala/studio/image/AiExtension.scala), unmodified = ...),Set(),Set(),API Changes: Set())[0m
-[0m[[0m[0mdebug[0m] [0m[0m[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial source changes:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	removed: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(${BASE}/src/main/scala/studio/image/AiExtension.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(studio.image.AiExtension)[0m
-[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(studio.image.AiExtension)[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(${BASE}/src/main/scala/studio/image/AiExtension.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: studio.image.AiExtension[0m
-[0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
-[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\owen.lang\Documents\CS478\image-studio\target\scala-3.3.6\classes ...[0m
-[0m[[0m[0mdebug[0m] [0m[0mReturning already retrieved and compiled bridge: C:\Users\owen.lang\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-sbt-bridge\3.3.6\scala3-sbt-bridge-3.3.6.jar.[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 4fd60717 for Scala Compiler version 3.3.6[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
-[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\owen.lang\Documents\CS478\image-studio\target\scala-3.3.6\classes;C:\Users\owen.lang\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-library_3\3.3.6\scala3-library_3-3.3.6.jar;C:\Users\owen.lang\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.16\scala-library-2.13.16.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 5.2351871 s[0m
-[0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from studio.image.AiExtension...[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: studio.image.AiExtension[0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(studio.image.AiExtension)[0m
-[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(studio.image.AiExtension,ModifiedNames(changes = UsedName(average,[Default]), UsedName(beside,[Default]), UsedName(vignette,[Default]), UsedName(cellCenter,[Default]), UsedName(vignette$default$5,[Default]), UsedName(blur,[Default]), UsedName(sampledEqual,[Default]), UsedName(kernelOffsets,[Default]), UsedName(wave,[Default]), UsedName(warp,[Default]), UsedName(swirl,[Default]), UsedName(sampledEqual$default$3,[Default]), UsedName(vignette$default$4,[Default]), UsedName(pixelate,[Default]), UsedName(coordinateRamp,[Default]))) invalidates 1 classes due to The studio.image.AiExtension has the following regular definitions changed:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	UsedName(average,[Default]), UsedName(beside,[Default]), UsedName(vignette,[Default]), UsedName(cellCenter,[Default]), UsedName(vignette$default$5,[Default]), UsedName(blur,[Default]), UsedName(sampledEqual,[Default]), UsedName(kernelOffsets,[Default]), UsedName(wave,[Default]), UsedName(warp,[Default]), UsedName(swirl,[Default]), UsedName(sampledEqual$default$3,[Default]), UsedName(vignette$default$4,[Default]), UsedName(pixelate,[Default]), UsedName(coordinateRamp,[Default]).[0m
-[0m[[0m[0mdebug[0m] [0m[0m  > by transitive inheritance: Set(studio.image.AiExtension)[0m
-[0m[[0m[0mdebug[0m] [0m[0m  > [0m
-[0m[[0m[0mdebug[0m] [0m[0m  > [0m
-[0m[[0m[0mdebug[0m] [0m[0m  > [0m
-[0m[[0m[0mdebug[0m] [0m[0m        [0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from studio.image.AiGallery...[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: studio.image.AiGallery[0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(studio.image.AiGallery)[0m
-[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(studio.image.AiGallery,ModifiedNames(changes = UsedName(##,[Default]), UsedName(night,[Default]), UsedName($asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(equals,[Default]), UsedName(toString,[Default]), UsedName(AiGallery,[Default]), UsedName(ne,[Default]), UsedName(main,[Default]), UsedName(notify,[Default]), UsedName(wait,[Default]), UsedName(isInstanceOf,[Default]), UsedName(synchronized,[Default]), UsedName(notifyAll,[Default]), UsedName(asInstanceOf,[Default]), UsedName(getClass,[Default]), UsedName(==,[Default]), UsedName(hashCode,[Default]), UsedName(!=,[Default]), UsedName(studio;image;AiGallery$;init;,[Default]), UsedName(dusk,[Default]), UsedName(finalize,[Default]), UsedName($isInstanceOf,[Default]), UsedName(java;lang;Object;init;,[Default]), UsedName(duskLayers,[Default]), UsedName(clone,[Default]))) invalidates 1 classes due to The studio.image.AiGallery has the following regular definitions changed:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	UsedName(##,[Default]), UsedName(night,[Default]), UsedName($asInstanceOf,[Default]), UsedName(eq,[Default]), UsedName(equals,[Default]), UsedName(toString,[Default]), UsedName(AiGallery,[Default]), UsedName(ne,[Default]), UsedName(main,[Default]), UsedName(notify,[Default]), UsedName(wait,[Default]), UsedName(isInstanceOf,[Default]), UsedName(synchronized,[Default]), UsedName(notifyAll,[Default]), UsedName(asInstanceOf,[Default]), UsedName(getClass,[Default]), UsedName(==,[Default]), UsedName(hashCode,[Default]), UsedName(!=,[Default]), UsedName(studio;image;AiGallery$;init;,[Default]), UsedName(dusk,[Default]), UsedName(finalize,[Default]), UsedName($isInstanceOf,[Default]), UsedName(java;lang;Object;init;,[Default]), UsedName(duskLayers,[Default]), UsedName(clone,[Default]).[0m
-[0m[[0m[0mdebug[0m] [0m[0m  > by transitive inheritance: Set(studio.image.AiGallery)[0m
-[0m[[0m[0mdebug[0m] [0m[0m  > [0m
-[0m[[0m[0mdebug[0m] [0m[0m  > [0m
-[0m[[0m[0mdebug[0m] [0m[0m  > [0m
-[0m[[0m[0mdebug[0m] [0m[0m        [0m
-[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
-[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
-[0m[[0m[0mdebug[0m] [0m[0mFinal step, transitive dependencies:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: studio.image.AiExtension, studio.image.AiGallery[0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidated macros due to upstream dependencies change: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m
