@@ -9,3 +9,295 @@ WARNING: Unmatched cancel notification for request id 1
 2026.11.06 06:35:34 INFO  no build target found for /home/owenlang/Documents/homework/CS478/so4/image-studio/src/main/scala/studio/image/Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8
 2026.11.06 06:35:34 INFO  no build target found for /home/owenlang/Documents/homework/CS478/so4/image-studio/src/main/scala/studio/image/Basics.scala. Using presentation compiler with project's scala-library version: 3.3.8
 2026.11.06 06:35:34 INFO  no build target found for /home/owenlang/Documents/homework/CS478/so4/image-studio/src/main/scala/studio/image/Basics.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.11.06 07:43:53 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\owen.lang\Documents\CS478\image-studio' for client Visual Studio Code 1.144.0.[0m
+2026.11.06 07:43:53 INFO  Memory monitor started[0m
+2026.11.06 07:43:57 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.11.06 07:43:57 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:43:59 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\StudentWork.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:43:59 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:43:59 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\StudentWork.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:43:59 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+Nov 06, 2026 7:43:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+2026.11.06 07:44:02 INFO  running 'C:\Program Files\Eclipse Adoptium\jdk-21.0.12.101-hotspot\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\OWEN~1.LAN\AppData\Local\Temp\metals281286354887316909\sbt-launch.jar -Dbloop.export-jar-classifiers=sources -Dbloop.export-meta-build=true bloopInstall'[0m
+2026.11.06 07:44:02 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\StudentWork.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:03 ERROR [info] [launcher] getting org.scala-sbt sbt 1.10.11  (this may take some time)...[0m
+2026.11.06 07:44:03 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\project\metals.sbt. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:03 WARN  no build target for: C:\Users\owen.lang\Documents\CS478\image-studio\project\metals.sbt[0m
+2026.11.06 07:44:02 WARN  no build target for: C:\Users\owen.lang\Documents\CS478\image-studio\project\project\metals.sbt[0m
+2026.11.06 07:44:03 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\project\project\metals.sbt. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:03 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:03 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\StudentWork.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:09 INFO  [info] welcome to sbt 1.10.11 (Eclipse Adoptium Java 21.0.12.1)[0m
+2026.11.06 07:44:10 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:12 INFO  [info] loading settings for project image-studio-build-build from metals.sbt...[0m
+2026.11.06 07:44:12 WARN  no build target for: C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala[0m
+2026.11.06 07:44:12 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:12 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\StudentWork.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:12 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:12 INFO  [info] loading project definition from C:\Users\owen.lang\Documents\CS478\image-studio\project\project[0m
+2026.11.06 07:44:12 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:14 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:15 INFO  [info] loading settings for project image-studio-build from metals.sbt...[0m
+2026.11.06 07:44:15 INFO  [info] loading project definition from C:\Users\owen.lang\Documents\CS478\image-studio\project[0m
+2026.11.06 07:44:15 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:15 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:15 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:15 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:15 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:15 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:16 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:16 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:16 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:16 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:16 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:16 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:16 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:17 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:17 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:17 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:17 INFO  no build target found for C:\Users\owen.lang\Documents\CS478\image-studio\src\main\scala\studio\image\Preview.scala. Using presentation compiler with project's scala-library version: 3.3.8[0m
+2026.11.06 07:44:18 INFO  [success] Generated .bloop\image-studio-build.json[0m
+2026.11.06 07:44:18 INFO  [success] Total time: 3 s, completed Nov 6, 2026, 7:44:18 AM[0m
+2026.11.06 07:44:20 INFO  [info] loading settings for project root from build.sbt...[0m
+2026.11.06 07:44:20 INFO  [info] set current project to cs478-shareout4-starter (in build file:/C:/Users/owen.lang/Documents/CS478/image-studio/)[0m
+2026.11.06 07:44:21 INFO  [success] Generated .bloop\root-test.json[0m
+2026.11.06 07:44:21 INFO  [success] Generated .bloop\root.json[0m
+2026.11.06 07:44:21 INFO  [success] Total time: 1 s, completed Nov 6, 2026, 7:44:21 AM[0m
+2026.11.06 07:44:21 INFO  time: ran 'sbt bloopInstall' in 18s[0m
+2026.11.06 07:44:21 INFO  Attempting to connect to the build server...[0m
+2026.11.06 07:44:21 INFO  No running Bloop server found, starting one.[0m
+2026.11.06 07:44:23 INFO  Starting compilation server[0m
+2026.11.06 07:44:24 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\owen.lang\Documents\CS478\image-studio\.metals\bsp.trace.json or C:\Users\owen.lang\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+2026.11.06 07:44:25 INFO  Attempting to connect to the build server...[0m
+2026.11.06 07:44:25 INFO  Found a Bloop server running[0m
+2026.11.06 07:44:25 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\owen.lang\Documents\CS478\image-studio\project\.metals\bsp.trace.json or C:\Users\owen.lang\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+2026.11.06 07:44:26 INFO  time: Connected to build server in 5s[0m
+2026.11.06 07:44:26 INFO  Connected to Build server: Bloop v2.1.2[0m
+2026.11.06 07:44:26 INFO  time: Imported build in 0.2s[0m
+2026.11.06 07:44:32 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+Exception in thread "MVStore background writer C:/Users/owen.lang/AppData/Roaming/metals/data/metals.mv.db" org.h2.mvstore.MVStoreException: Unable to read the page at position 0x1c006f79d96, chunk chunk:7,block:2,len:2a6,pages:dd2,livePages:1b,max:322df0,liveMax:2d30,map:18,root:1c00a766c1a,time:1fdf,unusedAtVersion:9,version:7,toc:29e332,occupancy:feffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeff7ffefffffffffffffffffffffffffffffffffffffffffffffff7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeff7f0080ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff..., offset 0xorg.h2.message.DbException: File corrupted while reading record: "type: 165". Possible solution: use the recovery tool [90030-250] [2.5.250/6]
+	at org.h2.mvstore.DataUtils.newMVStoreException(DataUtils.java:998)
+	at org.h2.mvstore.FileStore.readPage(FileStore.java:1997)
+	at org.h2.mvstore.MVStore.readPage(MVStore.java:1158)
+	at org.h2.mvstore.MVMap.readPage(MVMap.java:632)
+	at org.h2.mvstore.MVMap.rewritePage(MVMap.java:682)
+	at org.h2.mvstore.FileStore.rewriteChunks(FileStore.java:1955)
+	at org.h2.mvstore.FileStore.compactRewrite(FileStore.java:1929)
+	at org.h2.mvstore.FileStore.rewriteChunks(FileStore.java:1890)
+	at org.h2.mvstore.RandomAccessStore.lambda$doHousekeeping$4(RandomAccessStore.java:750)
+	at org.h2.mvstore.MVStore.tryExecuteUnderStoreLock(MVStore.java:1075)
+	at org.h2.mvstore.RandomAccessStore.doHousekeeping(RandomAccessStore.java:745)
+	at org.h2.mvstore.FileStore.writeInBackground(FileStore.java:1869)
+	at org.h2.mvstore.FileStore$BackgroundWriterThread.run(FileStore.java:2266)
+	Suppressed: org.h2.message.DbException: General error: "org.h2.mvstore.MVStoreException: Unable to read the page at position 0x1c006f79d96, chunk chunk:7,block:2,len:2a6,pages:dd2,livePages:1b,max:322df0,liveMax:2d30,map:18,root:1c00a766c1a,time:1fdf,unusedAtVersion:9,version:7,toc:29e332,occupancy:feffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeff7ffefffffffffffffffffffffffffffffffffffffffffffffff7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeff7f0080ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff..., offset 0xorg.h2.message.DbException: File corrupted while reading record: ""type: 165"". Possible solution: use the recovery tool [90030-250] [2.5.250/6]" [50000-250]
+		at org.h2.message.DbException.get(DbException.java:212)
+		at org.h2.message.DbException.convert(DbException.java:407)
+		at org.h2.mvstore.db.Store.lambda$new$0(Store.java:123)
+		at org.h2.mvstore.MVStore.handleException(MVStore.java:1693)
+		at org.h2.mvstore.MVStore.panic(MVStore.java:521)
+		at org.h2.mvstore.MVStore.tryExecuteUnderStoreLock(MVStore.java:1077)
+		... 3 more
+	Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "org.h2.mvstore.MVStoreException: Unable to read the page at position 0x1c006f79d96, chunk chunk:7,block:2,len:2a6,pages:dd2,livePages:1b,max:322df0,liveMax:2d30,map:18,root:1c00a766c1a,time:1fdf,unusedAtVersion:9,version:7,toc:29e332,occupancy:feffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeff7ffefffffffffffffffffffffffffffffffffffffffffffffff7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeff7f0080ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff..., offset 0xorg.h2.message.DbException: File corrupted while reading record: ""type: 165"". Possible solution: use the recovery tool [90030-250] [2.5.250/6]" [50000-250]
+		at org.h2.message.DbException.getJdbcSQLException(DbException.java:566)
+		at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+		... 9 more
+	Caused by: [CIRCULAR REFERENCE: org.h2.mvstore.MVStoreException: Unable to read the page at position 0x1c006f79d96, chunk chunk:7,block:2,len:2a6,pages:dd2,livePages:1b,max:322df0,liveMax:2d30,map:18,root:1c00a766c1a,time:1fdf,unusedAtVersion:9,version:7,toc:29e332,occupancy:feffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeff7ffefffffffffffffffffffffffffffffffffffffffffffffff7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeff7f0080ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff..., offset 0xorg.h2.message.DbException: File corrupted while reading record: "type: 165". Possible solution: use the recovery tool [90030-250] [2.5.250/6]]
+Caused by: org.h2.message.DbException: File corrupted while reading record: "type: 165". Possible solution: use the recovery tool [90030-250]
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.mvstore.db.ValueDataType.readValue(ValueDataType.java:771)
+	at org.h2.mvstore.db.RowDataType.read(RowDataType.java:157)
+	at org.h2.mvstore.db.RowDataType.read(RowDataType.java:29)
+	at org.h2.mvstore.tx.VersionedValueType.read(VersionedValueType.java:78)
+	at org.h2.mvstore.tx.VersionedValueType.read(VersionedValueType.java:66)
+	at org.h2.mvstore.Page$Leaf.readPayLoad(Page.java:1718)
+	at org.h2.mvstore.Page.read(Page.java:673)
+	at org.h2.mvstore.Page.read(Page.java:264)
+	at org.h2.mvstore.FileStore.readPage(FileStore.java:1993)
+	... 11 more
+Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: "type: 165". Possible solution: use the recovery tool [90030-250]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:690)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	... 22 more
+Nov 06, 2026 7:44:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 83
+2026.11.06 07:44:43 ERROR You might need to remove .metals/metals.mv.db file and restart Metals.
+org.h2.jdbc.JdbcSQLNonTransientException: General error: "General error: ""org.h2.mvstore.MVStoreException: Unable to read the page at position 0x1c006f79d96, chunk chunk:7,block:2,len:2a6,pages:dd2,livePages:1b,max:322df0,liveMax:2d30,map:18,root:1c00a766c1a,time:1fdf,unusedAtVersion:9,version:7,toc:29e332,occupancy:feffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeff7ffefffffffffffffffffffffffffffffffffffffffffffffff7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeff7f0080ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff..., offset 0xorg.h2.message.DbException: File corrupted while reading record: """"type: 165"""". Possible solution: use the recovery tool [90030-250] [2.5.250/6]"" [50000-250]" [50000-250]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:566)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	at org.h2.message.DbException.get(DbException.java:212)
+	at org.h2.engine.Database.throwLastBackgroundException(Database.java:1841)
+	at org.h2.engine.SessionLocal.beforeCommitOrRollback(SessionLocal.java:783)
+	at org.h2.engine.SessionLocal.commit(SessionLocal.java:688)
+	at org.h2.command.Command.stop(Command.java:164)
+	at org.h2.command.Command.executeQuery(Command.java:238)
+	at org.h2.jdbc.JdbcPreparedStatement.executeQuery(JdbcPreparedStatement.java:130)
+	at scala.meta.internal.metals.JdbcEnrichments$XtensionConnection.query(JdbcEnrichments.scala:49)
+	at scala.meta.internal.metals.JarIndexingInfo.addOrUpdateJar(JarTopLevels.scala:238)
+	at scala.meta.internal.metals.JarIndexingInfo.addTypeHierarchyInfo(JarTopLevels.scala:224)
+	at scala.meta.internal.metals.Indexer.indexJdkSources(Indexer.scala:506)
+	at scala.meta.internal.metals.Indexer.$anonfun$indexWorkspace$20(Indexer.scala:195)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.Indexer.$anonfun$indexWorkspace$19(Indexer.scala:192)
+	at scala.meta.internal.metals.Indexer.$anonfun$indexWorkspace$19$adapted(Indexer.scala:188)
+	at scala.collection.immutable.List.foreach(List.scala:323)
+	at scala.meta.internal.metals.Indexer.indexWorkspace(Indexer.scala:188)
+	at scala.meta.internal.metals.Indexer.$anonfun$profiledIndexWorkspace$2(Indexer.scala:58)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.Indexer.$anonfun$profiledIndexWorkspace$1(Indexer.scala:58)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:691)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:500)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+Caused by: org.h2.message.DbException: General error: "org.h2.mvstore.MVStoreException: Unable to read the page at position 0x1c006f79d96, chunk chunk:7,block:2,len:2a6,pages:dd2,livePages:1b,max:322df0,liveMax:2d30,map:18,root:1c00a766c1a,time:1fdf,unusedAtVersion:9,version:7,toc:29e332,occupancy:feffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeff7ffefffffffffffffffffffffffffffffffffffffffffffffff7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeff7f0080ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff..., offset 0xorg.h2.message.DbException: File corrupted while reading record: ""type: 165"". Possible solution: use the recovery tool [90030-250] [2.5.250/6]" [50000-250]
+	at org.h2.message.DbException.get(DbException.java:212)
+	at org.h2.message.DbException.convert(DbException.java:407)
+	at org.h2.mvstore.db.Store.lambda$new$0(Store.java:123)
+	at org.h2.mvstore.MVStore.handleException(MVStore.java:1693)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:521)
+	at org.h2.mvstore.MVStore.tryExecuteUnderStoreLock(MVStore.java:1077)
+	at org.h2.mvstore.RandomAccessStore.doHousekeeping(RandomAccessStore.java:745)
+	at org.h2.mvstore.FileStore.writeInBackground(FileStore.java:1869)
+	at org.h2.mvstore.FileStore$BackgroundWriterThread.run(FileStore.java:2266)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "org.h2.mvstore.MVStoreException: Unable to read the page at position 0x1c006f79d96, chunk chunk:7,block:2,len:2a6,pages:dd2,livePages:1b,max:322df0,liveMax:2d30,map:18,root:1c00a766c1a,time:1fdf,unusedAtVersion:9,version:7,toc:29e332,occupancy:feffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeff7ffefffffffffffffffffffffffffffffffffffffffffffffff7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeff7f0080ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff..., offset 0xorg.h2.message.DbException: File corrupted while reading record: ""type: 165"". Possible solution: use the recovery tool [90030-250] [2.5.250/6]" [50000-250]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:566)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	at org.h2.message.DbException.get(DbException.java:212)
+	at org.h2.message.DbException.convert(DbException.java:407)
+	at org.h2.mvstore.db.Store.lambda$new$0(Store.java:123)
+	at org.h2.mvstore.MVStore.handleException(MVStore.java:1693)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:521)
+	at org.h2.mvstore.MVStore.tryExecuteUnderStoreLock(MVStore.java:1077)
+	at org.h2.mvstore.RandomAccessStore.doHousekeeping(RandomAccessStore.java:745)
+	at org.h2.mvstore.FileStore.writeInBackground(FileStore.java:1869)
+	at org.h2.mvstore.FileStore$BackgroundWriterThread.run(FileStore.java:2266)
+Caused by: org.h2.mvstore.MVStoreException: Unable to read the page at position 0x1c006f79d96, chunk chunk:7,block:2,len:2a6,pages:dd2,livePages:1b,max:322df0,liveMax:2d30,map:18,root:1c00a766c1a,time:1fdf,unusedAtVersion:9,version:7,toc:29e332,occupancy:feffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffff3fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeff7ffefffffffffffffffffffffffffffffffffffffffffffffff7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffeff7f0080ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff..., offset 0xorg.h2.message.DbException: File corrupted while reading record: "type: 165". Possible solution: use the recovery tool [90030-250] [2.5.250/6]
+	at org.h2.mvstore.DataUtils.newMVStoreException(DataUtils.java:998)
+	at org.h2.mvstore.FileStore.readPage(FileStore.java:1997)
+	at org.h2.mvstore.MVStore.readPage(MVStore.java:1158)
+	at org.h2.mvstore.MVMap.readPage(MVMap.java:632)
+	at org.h2.mvstore.MVMap.rewritePage(MVMap.java:682)
+	at org.h2.mvstore.FileStore.rewriteChunks(FileStore.java:1955)
+	at org.h2.mvstore.FileStore.compactRewrite(FileStore.java:1929)
+	at org.h2.mvstore.FileStore.rewriteChunks(FileStore.java:1890)
+	at org.h2.mvstore.RandomAccessStore.lambda$doHousekeeping$4(RandomAccessStore.java:750)
+	at org.h2.mvstore.MVStore.tryExecuteUnderStoreLock(MVStore.java:1075)
+	at org.h2.mvstore.RandomAccessStore.doHousekeeping(RandomAccessStore.java:745)
+	at org.h2.mvstore.FileStore.writeInBackground(FileStore.java:1869)
+	at org.h2.mvstore.FileStore$BackgroundWriterThread.run(FileStore.java:2266)
+Caused by: org.h2.message.DbException: File corrupted while reading record: "type: 165". Possible solution: use the recovery tool [90030-250]
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.mvstore.db.ValueDataType.readValue(ValueDataType.java:771)
+	at org.h2.mvstore.db.RowDataType.read(RowDataType.java:157)
+	at org.h2.mvstore.db.RowDataType.read(RowDataType.java:29)
+	at org.h2.mvstore.tx.VersionedValueType.read(VersionedValueType.java:78)
+	at org.h2.mvstore.tx.VersionedValueType.read(VersionedValueType.java:66)
+	at org.h2.mvstore.Page$Leaf.readPayLoad(Page.java:1718)
+	at org.h2.mvstore.Page.read(Page.java:673)
+	at org.h2.mvstore.Page.read(Page.java:264)
+	at org.h2.mvstore.FileStore.readPage(FileStore.java:1993)
+	at org.h2.mvstore.MVStore.readPage(MVStore.java:1158)
+	at org.h2.mvstore.MVMap.readPage(MVMap.java:632)
+	at org.h2.mvstore.MVMap.rewritePage(MVMap.java:682)
+	at org.h2.mvstore.FileStore.rewriteChunks(FileStore.java:1955)
+	at org.h2.mvstore.FileStore.compactRewrite(FileStore.java:1929)
+	at org.h2.mvstore.FileStore.rewriteChunks(FileStore.java:1890)
+	at org.h2.mvstore.RandomAccessStore.lambda$doHousekeeping$4(RandomAccessStore.java:750)
+	at org.h2.mvstore.MVStore.tryExecuteUnderStoreLock(MVStore.java:1075)
+	at org.h2.mvstore.RandomAccessStore.doHousekeeping(RandomAccessStore.java:745)
+	at org.h2.mvstore.FileStore.writeInBackground(FileStore.java:1869)
+	at org.h2.mvstore.FileStore$BackgroundWriterThread.run(FileStore.java:2266)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: File corrupted while reading record: "type: 165". Possible solution: use the recovery tool [90030-250]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:690)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.mvstore.db.ValueDataType.readValue(ValueDataType.java:771)
+	at org.h2.mvstore.db.RowDataType.read(RowDataType.java:157)
+	at org.h2.mvstore.db.RowDataType.read(RowDataType.java:29)
+	at org.h2.mvstore.tx.VersionedValueType.read(VersionedValueType.java:78)
+	at org.h2.mvstore.tx.VersionedValueType.read(VersionedValueType.java:66)
+	at org.h2.mvstore.Page$Leaf.readPayLoad(Page.java:1718)
+	at org.h2.mvstore.Page.read(Page.java:673)
+	at org.h2.mvstore.Page.read(Page.java:264)
+	at org.h2.mvstore.FileStore.readPage(FileStore.java:1993)
+	at org.h2.mvstore.MVStore.readPage(MVStore.java:1158)
+	at org.h2.mvstore.MVMap.readPage(MVMap.java:632)
+	at org.h2.mvstore.MVMap.rewritePage(MVMap.java:682)
+	at org.h2.mvstore.FileStore.rewriteChunks(FileStore.java:1955)
+	at org.h2.mvstore.FileStore.compactRewrite(FileStore.java:1929)
+	at org.h2.mvstore.FileStore.rewriteChunks(FileStore.java:1890)
+	at org.h2.mvstore.RandomAccessStore.lambda$doHousekeeping$4(RandomAccessStore.java:750)
+	at org.h2.mvstore.MVStore.tryExecuteUnderStoreLock(MVStore.java:1075)
+	at org.h2.mvstore.RandomAccessStore.doHousekeeping(RandomAccessStore.java:745)
+	at org.h2.mvstore.FileStore.writeInBackground(FileStore.java:1869)
+	at org.h2.mvstore.FileStore$BackgroundWriterThread.run(FileStore.java:2266)
+[0m
+2026.11.06 07:44:43 WARN  org.h2.jdbc.JdbcBatchUpdateException: File corrupted while reading record: "C:/Users/owen.lang/AppData/Roaming/metals/data/metals.mv.db". Possible solution: use the recovery tool; SQL statement:
+insert into type_hierarchy (symbol, parent_name, path, jar, is_resolved) values (?, ?, ?, ?, ?) [90030-250]
+	at org.h2.jdbc.JdbcPreparedStatement.executeBatch(JdbcPreparedStatement.java:1277)
+	at scala.meta.internal.metals.JarIndexingInfo.putTypeHierarchyInfo(JarTopLevels.scala:309)
+	at scala.meta.internal.metals.JarIndexingInfo.$anonfun$addTypeHierarchyInfo$3(JarTopLevels.scala:225)
+	at scala.runtime.java8.JFunction1$mcII$sp.apply(JFunction1$mcII$sp.scala:17)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.JarIndexingInfo.addTypeHierarchyInfo(JarTopLevels.scala:225)
+	at scala.meta.internal.metals.Indexer.indexJdkSources(Indexer.scala:506)
+	at scala.meta.internal.metals.Indexer.$anonfun$indexWorkspace$20(Indexer.scala:195)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.Indexer.$anonfun$indexWorkspace$19(Indexer.scala:192)
+	at scala.meta.internal.metals.Indexer.$anonfun$indexWorkspace$19$adapted(Indexer.scala:188)
+	at scala.collection.immutable.List.foreach(List.scala:323)
+	at scala.meta.internal.metals.Indexer.indexWorkspace(Indexer.scala:188)
+	at scala.meta.internal.metals.Indexer.$anonfun$profiledIndexWorkspace$2(Indexer.scala:58)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.Indexer.$anonfun$profiledIndexWorkspace$1(Indexer.scala:58)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:691)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:500)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+[0m
+2026.11.06 07:44:53 INFO  time: indexed workspace in 26s[0m
+2026.11.06 07:44:54 INFO  compiling root (5 scala sources)[0m
+2026.11.06 07:45:00 INFO  time: compiled root in 6.21s[0m
+Nov 06, 2026 7:56:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1077
+Nov 06, 2026 7:56:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1356
+2026.11.06 08:00:53 INFO  compiling root (1 scala source)[0m
+2026.11.06 08:00:53 INFO  time: compiled root in 0.97s[0m
+Nov 06, 2026 8:00:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2465
+Nov 06, 2026 8:00:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 06, 2026 8:00:57 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.11.06 08:02:31 INFO  compiling root (1 scala source)[0m
+2026.11.06 08:02:31 INFO  time: compiled root in 0.72s[0m
+Nov 06, 2026 8:02:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2838
+Nov 06, 2026 8:02:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2943
+Nov 06, 2026 8:03:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3165
+Nov 06, 2026 8:03:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3300
+Nov 06, 2026 8:04:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3475
+Nov 06, 2026 8:04:17 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3560
+Nov 06, 2026 8:04:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3595
+2026.11.06 08:05:24 INFO  compiling root (1 scala source)[0m
+2026.11.06 08:05:25 INFO  time: compiled root in 1.1s[0m
+2026.11.06 08:05:39 INFO  compiling root (1 scala source)[0m
+2026.11.06 08:05:39 INFO  time: compiled root in 0.64s[0m
