@@ -319,3 +319,4 @@ WARNING: Unmatched cancel notification for request id 5249
 Nov 06, 2026 2:33:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 5524
 2026.11.06 14:37:48 INFO  compiling root (5 scala sources)[0m
+2026.11.06 14:37:50 INFO  time: compiled root in 1.95s[0m

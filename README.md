@@ -2,6 +2,8 @@
 
 Run `sbt "runMain studio.image.Preview"` to create the provided starter gradient.
 Run `sbt "runMain studio.image.Checks"` to run tests (initially fails: HUMAN-ONLY TODO).
+Run `sbt "runMain studio.image.AiChecks"` to run AI Tests.
+Run `sbt "runMain studio.image.AiGallery"` to run AI art renders.
 
 - `Basics.scala` contains types, one gradient generator, a mask, color blending,
   and a PNG renderer. Leave this foundation intact unless you justify changes.
@@ -12,6 +14,3 @@ Run `sbt "runMain studio.image.Checks"` to run tests (initially fails: HUMAN-ONL
   representative prompts and proposed code, your own tests, and corrections.
 - `Preview.scala` demonstrates baseline I/O and leaves the original art to you.
 
-The `???` expressions intentionally compile in Scala but raise at runtime until
-implemented. The provided tests intentionally fail until HumanCore is complete.
-Use at least five layers and two masks for original art and export two PNGs.
