@@ -307,3 +307,15 @@ WARNING: Unmatched cancel notification for request id 3595
 2026.11.06 08:59:22 INFO  time: compiled root in 9.39s[0m
 Nov 06, 2026 9:01:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 4443
+Nov 06, 2026 12:36:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4974
+Nov 06, 2026 12:43:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5200
+Nov 06, 2026 12:43:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5249
+2026.11.06 14:12:24 INFO  skipping build import with status 'Installed'[0m
+2026.11.06 14:25:32 INFO  compiling root (1 scala source)[0m
+2026.11.06 14:25:33 INFO  time: compiled root in 1.48s[0m
+Nov 06, 2026 2:33:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5524
+2026.11.06 14:37:48 INFO  compiling root (5 scala sources)[0m
